@@ -1,6 +1,6 @@
 #chat bot - first run - you have to give the training data - and train it first. Download the training data from Github.
 #second time no need for train it again, you can comment the training code snippet.
-
+#https://github.com/gunthercox/chatterbot-corpus - Data Set .yml file. You can use any
 
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
